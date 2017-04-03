@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jay.tourguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ArtAndCultureActivity"
+            android:label="@string/category_art_and_culture" />
+
+        <activity android:name=".FoodsActivity"
+            android:label="@string/category_foods"/>
+
+        <activity android:name=".HotelAndResortsActivity"
+            android:label="@string/category_hotels_and_resorts"/>
+
+        <activity android:name=".PlacesToVisitActivity"
+            android:label="@string/category_places_to_visit"/>
+
+        <activity android:name=".ThingsToDoActivity"
+            android:label="@string/category_things_to_do"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Ahmedabad Tour Guide</string>
+
+    <!-- Category name for places to visit in Ahmedabad.-->
+    <string name="category_places_to_visit">Places To Visit</string>
+
+    <!-- Category name for the arts and calture of Ahmedabad.-->
+    <string name="category_art_and_culture">Art &amp; Culture</string>
+
+    <!-- Category name for the popular foods of Ahmedabad. -->
+    <string name="category_foods">Popular Foods</string>
+
+    <!-- Category name for the things to do in Ahmedabad. -->
+    <string name="category_things_to_do">Things To Do</string>
+
+    <!-- Category name for the hotels and resorts in Ahmedabad. -->
+    <string name="category_hotels_and_resorts">Hotels &amp; Resorts</string>
+
+
+
+    <!-- Title for Hotels and resorts. -->
+    <string name="hotels_and_resorts_title_one">Fortune Landmark</string>
+    <string name="hotels_and_resorts_title_two">Lemon Tree</string>
+    <string name="hotels_and_resorts_title_three">Four Points by Sheraton</string>
+    <string name="hotels_and_resorts_title_four">Taj Gateway</string>
+    <string name="hotels_and_resorts_title_five">Silver Cloud</string>
+
+    <!-- Location for Hotels and resorts. -->
+    <string name="hotels_and_resorts_location_one">Ashram Road, Ahmedabad, Gujarat</string>
+    <string name="hotels_and_resorts_location_two">Mithakhali Six Cross Roads, Navrangpura, Ahmedabad, Gujarat</string>
+    <string name="hotels_and_resorts_location_three">Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat</string>
+    <string name="hotels_and_resorts_location_four">International Airport Circle, Hansol, Ahmedabad, Gujarat</string>
+    <string name="hotels_and_resorts_location_five">Opp. Gandhi Ashram &amp; Dandi Bridge, Ashram Road, Wadaj, Ahmedabad, Gujarat</string>
+
+
+    <!-- Title for Places to visit. -->
+    <string name="places_to_visit_title_one">Adalaj ni Vav</string>
+    <string name="places_to_visit_title_two">Auto World Car Museum</string>
+    <string name="places_to_visit_title_three">Vechaar Museum</string>
+    <string name="places_to_visit_title_four">Hutheesing Jain Temple</string>
+    <string name="places_to_visit_title_five">Sabarmati Ashram</string>
+    <string name="places_to_visit_title_six">Amdavad ni Gufa</string>
+
+    <!-- Location for Places to visit. -->
+    <string name="places_to_visit_location_one">Adalaj, Gujarat</string>
+    <string name="places_to_visit_location_two">Dastan Estate, Sardar Patel Ring Road, Kathwada, Ahmedabad, Gujarat</string>
+    <string name="places_to_visit_location_three">Opposite A P M C Market, Vasna, Vishala, Ahmedabad, Gujarat</string>
+    <string name="places_to_visit_location_four">Shahibaug Rd, Bardolpura, Madhupura, Ahmedabad, Gujarat</string>
+    <string name="places_to_visit_location_five">Gandhi Smarak Sangrahalaya, Hridaya Kunj, Old Wadaj, Ahmedabad, Gujarat</string>
+    <string name="places_to_visit_location_six">Opposite L.D Engineering, Gujarat University campus, Ahmedabad, Gujarat</string>
+
+    <!-- Title for Art and culture. -->
+    <string name="art_and_culture_title_one">Gujarat Literature</string>
+    <string name="art_and_culture_title_two">Painting Exhibitions</string>
+    <string name="art_and_culture_title_three">Sculpture Art</string>
+    <string name="art_and_culture_title_four">Saptak</string>
+    <string name="art_and_culture_title_five">Folk art</string>
+    <string name="art_and_culture_title_six">Handicraft Bazaar</string>
+
+    <!-- Location for Art and calure. -->
+    <string name="art_and_culture_location_one">CEPT Premises, Opp Gujarat University, University Road, Ahmedabad, Gujarat</string>
+    <string name="art_and_culture_location_two">Opposite L.D Engineering, Gujarat University campus, Ahmedabad, Gujarat</string>
+    <string name="art_and_culture_location_three">Hutheesing Jain Temple, Shahibaug Rd, Madhupura, Ahmedabad, Gujarat</string>
+    <string name="art_and_culture_location_four">University Area, Ahmedabad, Gujarat</string>
+    <string name="art_and_culture_location_five">Shreyas Folk Museum, Bhudarpura, Ahmedabad, Gujarat</string>
+    <string name="art_and_culture_location_six">Law Garden Handicraft Market, Ellisbridge, Ahmedabad, Gujarat</string>
+
+    <!-- Title for food in Ahmedabad. -->
+    <string name="food_title_one">Jail Na Bhajiya</string>
+    <string name="food_title_two">Dalwada</string>
+    <string name="food_title_three">Manekchowk</string>
+    <string name="food_title_four">Law Garden</string>
+    <string name="food_title_five">Das Surti Khaman</string>
+
+    <!-- Location for food in Ahmedabad. -->
+    <string name="food_location_one">Sabarmati Jail Bhajiya House, Ahmedabad, Gujarat</string>
+    <string name="food_location_two">Ahmedabad, Gujarat</string>
+    <string name="food_location_three">Manekchowk, Ahmedabad, Gujarat</string>
+    <string name="food_location_four">Netaji Road, Ellisbridge, Ahmedabad, Gujarat</string>
+    <string name="food_location_five">Navrangpura, Ahmedabad, Gujarat</string>
+
+
+    <!-- Title for things to do in Ahmedabad. -->
+    <string name="things_to_do_title_one">Movie @ Drive In Cinema</string>
+    <string name="things_to_do_title_two">Attand Ravivari and Gujri Bazaar</string>
+    <string name="things_to_do_title_three">Eat Foods @ Manekchowk</string>
+    <string name="things_to_do_title_four">Fly Kites on makar sankranti</string>
+    <string name="things_to_do_title_five">Do Shopping @ Rani no hajiro</string>
+    <string name="things_to_do_title_six">Visit ATMA House</string>
+
+
+    <!-- Location for things to do in Ahmedabad. -->
+    <string name="things_to_do_location_one">CEPT Premises, Opp Gujarat University, University Road, Ahmedabad</string>
+    <string name="things_to_do_location_two">Opposite L.D Engineering, Gujarat University campus, Ahmedabad, Gujarat</string>
+    <string name="things_to_do_location_three">Hutheesing Jain Temple, Shahibaug Rd, Madhupura, Ahmedabad, Gujarat</string>
+    <string name="things_to_do_location_four">Anywhere in Ahmedabad, Gujarat</string>
+    <string name="things_to_do_location_five">Gandhi Road, Manek Chowk, Danapidth, Khadia, Ahmedabad, Gujarat</string>
+    <string name="things_to_do_location_six">Vishalpur, Muslim Society, Navrangpura,Ahmedabad, Gujarat</string>
+
+</resources>

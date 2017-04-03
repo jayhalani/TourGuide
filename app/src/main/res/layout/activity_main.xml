@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.jay.tourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/art_and_calture"
+        style="@style/CategoryStyle"
+        android:background="@color/category_art_and_calture"
+        android:text="@string/category_art_and_culture" />
+
+    <TextView
+        android:id="@+id/places_to_visit"
+        style="@style/CategoryStyle"
+        android:background="@color/category_places_to_visit"
+        android:text="@string/category_places_to_visit" />
+
+    <TextView
+        android:id="@+id/popular_food"
+        style="@style/CategoryStyle"
+        android:background="@color/category_popular_food"
+        android:text="@string/category_foods" />
+
+    <TextView
+        android:id="@+id/things_to_do"
+        style="@style/CategoryStyle"
+        android:background="@color/category_things_to_do"
+        android:text="@string/category_things_to_do" />
+
+    <TextView
+        android:id="@+id/hotels_and_resorts"
+        style="@style/CategoryStyle"
+        android:background="@color/category_hotels_and_resorts"
+        android:text="@string/category_hotels_and_resorts" />
+
+
+</LinearLayout>
