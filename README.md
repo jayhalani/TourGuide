@@ -3,8 +3,5 @@ This is the sixth project I've submitted to Udacity for the Android Basics NanoD
 
 ## Screenshots
 
-<img src="./art/screen0.png" width="35%">&ensp;<img src="./art/screen1.png" width="35%">
-
-<img src="./art/screen2.png" width="35%">&ensp;<img src="./art/screen3.png" width="35%">
-
-<img src="./art/screen4.png" width="35%">&ensp;<img src="./art/screen5.png" width="35%">
+<img src="./art/screen0.png" width="33%"><img src="./art/screen1.png" width="33%"><img src="./art/screen2.png" width="33%">
+<img src="./art/screen3.png" width="33%"><img src="./art/screen4.png" width="33%"><img src="./art/screen5.png" width="33%">
